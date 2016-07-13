@@ -18,7 +18,7 @@
 ## Corrections and bug reports
 
 If you notice any errors, please enter them in the [issue
-tracker](issues).
+tracker](https://github.com/davidmjones/alg/issues).
 
 ## Editorial practices
 
