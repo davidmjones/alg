@@ -1,5 +1,12 @@
 # Hale and Buck: *A Latin Grammar*
 
+## Introduction
+
+Hale and Buck's *A Latin Grammar* was first published by Ginn and
+Company in 1903.  [This edition](alatingrammar.pdf) is a collation of
+the two different versions of the original that I am aware of,
+hereafter referred to as versions A and B.
+
 ## The Scans
 
 - [Version A](scans/alg-versionA.pdf):
