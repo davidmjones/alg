@@ -25,7 +25,8 @@ hereafter referred to as versions A and B.
 ## Corrections and bug reports
 
 If you notice any errors, please enter them in the [issue
-tracker](https://github.com/davidmjones/alg/issues).
+tracker](https://github.com/davidmjones/alg/issues)
+or via email to <haleandbuck@gmail.com>.
 
 ## Editorial practices
 
